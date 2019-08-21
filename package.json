@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/SeanZom/Natours/issues"
   },
-  "homepage": "https://github.com/SeanZom/Natours#readme",
+  "homepage": "https://seanzom.github.io/Natours",
   "devDependencies": {
     "node-sass": "^4.12.0"
   },
